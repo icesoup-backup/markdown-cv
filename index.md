@@ -69,17 +69,17 @@ __AutoCAD__
 
 ### Software
 
-Magic: A Minecraft mod written in Java [Github](https://github.com/Sadeeed/Magic)
+__Magic:__ A Minecraft mod written in Java [Github](https://github.com/Sadeeed/Magic)
 
-Datapacks: Miscellaneous datapacks made for Minecraft [Github](https://github.com/Sadeeed/datapacks)
+__Datapacks:__ Miscellaneous datapacks made for Minecraft [Github](https://github.com/Sadeeed/datapacks)
 
-Discord Bot: A generic modular discord bot made in Python [Github](https://github.com/Sadeeed/discordbot)
+__Discord Bot:__ A generic modular discord bot made in Python [Github](https://github.com/Sadeeed/discordbot)
 
 ### Hardware
 
-Soup10: A 4x3 Programable Mechanical Macro Pad designed using Eagle running QMK firmware [Github](https://github.com/Sadeeed/soup10)
+__Soup10:__ A 4x3 Programable Mechanical Macro Pad designed using Eagle running QMK firmware [Github](https://github.com/Sadeeed/soup10)
 
-WordClock: A Word Clock based on the STM32F401CCU6 / Black Pill board [Github](https://github.com/Sadeeed/WordClock)
+__WordClock:__ A Word Clock based on the STM32F401CCU6 / Black Pill board [Github](https://github.com/Sadeeed/WordClock)
 
 
 
@@ -95,8 +95,8 @@ Chairperson - IET Comsats Lahore Students Chapter
 
 ## Certifications
 
-`EC-Coucil | September 2018 | [Certificate](https://drive.google.com/file/d/1d2xFAblORzXhUmt_FGJGSkR0-NrdeaJO/view?usp=sharing)`
-Certified Secure Computer User
+`EC-Coucil | September 2018 `
+__Certified Secure Computer User__ [Certificate](https://drive.google.com/file/d/1d2xFAblORzXhUmt_FGJGSkR0-NrdeaJO/view?usp=sharing)
 
 
 
