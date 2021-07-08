@@ -21,15 +21,18 @@ To become part of an organization where I get to use and improve my existing ski
 
 `2007 - 2016`
 __Crescent Model Higher Secondary School, Lahore__
-__Matric [821/1100]__
+
+Matric [821/1100]
 
 `2016 - 2018`
 __Aspire College, Lahore__
-__Intermediate in Computer Science [722/1100]__
+
+Intermediate in Computer Science [722/1100]
 
 `2018 - 2022`
 __Comsats Univeristy Islamabad, Lahore Campus__
-__BS Computer Engineering [In Progress]__
+
+BS Computer Engineering [In Progress]
 
 
 
