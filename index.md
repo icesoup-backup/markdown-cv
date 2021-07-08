@@ -1,91 +1,69 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sadeed's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Muhammad Sadeed Waseem
+Student, Computer Engineer(WIP), Tinkerer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="sadeeedw@gmail.com">sadeeedw@gmail.com</a>
+| <a href="https://sadeeed.github.io/">Website</a>
+| <a href="https://github.com/Sadeeed">Github</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2007 - 2016`
+__Crescent Model Higher Secondary School, Lahore__
+__Matric []__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
+`2016 - 2018`
+__Aspire College, Lahore__
+__Intermediate in Computer Science []__
 
 `1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+__Comsats Univeristy Islamabad, Lahore Campus__
+__BS Computer Engineering (In Progress)__
 
 
-## Awards
+## Skills
+Experienced in the following scopes
 
-`2012`
-President, *Royal Society*, London, UK
+`Intermediate`
+__Java__
 
-Associate, *French Academy of Science*, Paris, France
+`Intermediate`
+__Python__
 
+`Intermediate`
+__C__
 
+`Beginner`
+__Eagle / KiCAD__
 
-## Publications
+`Beginner`
+__Blender__
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`Beginner`
+__AutoCAD__
 
-### Journals
+## Projects
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+### Software
 
-`1669`
-Lectiones opticæ.
+Magic: A Minecraft mod written in Java [Github](https://github.com/Sadeeed/Magic)
 
-etc. etc. etc.
+Datapacks: Miscellaneous datapacks made for Minecraft [Github](https://github.com/Sadeeed/datapacks)
 
-### Patents
+Discord Bot: A generic modular discord bot made in Python [Github](https://github.com/Sadeeed/discordbot)
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Hardware
 
+Soup10: A 4x3 Programable Mechanical Macro Pad designed using Eagle running QMK firmware [Github](https://github.com/Sadeeed/soup10)
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+WordClock: A Word Clock based on the STM32F401CCU6 / Black Pill board [Github](https://github.com/Sadeeed/WordClock)
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: July 2021 -->
