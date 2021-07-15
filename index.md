@@ -57,6 +57,10 @@ Datapacks: Miscellaneous datapacks made for Minecraft [Github](https://github.co
 
 Discord Bot: A generic modular discord bot made in Python [Github](https://github.com/Sadeeed/discordbot)
 
+Fast Share Bot: A discord bot to share your server across multiple servers [Github](https://github.com/icesoup-backup/FastShareBot)
+
+Bot Dashboard: A Bot Dashboard written in flask made to work in unison with Fast Share Bot [Github](https://github.com/icesoup-backup/BotDashboard)
+
 ### Hardware
 
 Soup10: A 4x3 Programable Mechanical Macro Pad designed using Eagle running QMK firmware [Github](https://github.com/Sadeeed/soup10)
