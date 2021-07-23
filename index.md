@@ -21,7 +21,7 @@ __Matric []__
 __Aspire College, Lahore__
 __Intermediate in Computer Science []__
 
-`1667 - death`
+`2018 - 2022`
 __Comsats Univeristy Islamabad, Lahore Campus__
 __BS Computer Engineering (In Progress)__
 
