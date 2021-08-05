@@ -79,7 +79,7 @@ __Fast Share Bot:__ A discord bot to share your server across multiple servers [
 
 __Bot Dashboard:__ A Bot Dashboard written in flask made to work in unison with Fast Share Bot [Github](https://github.com/icesoup-backup/BotDashboard)
 
-__Desk Lighting:__ A GTK3 Python GUI to serially communicate with Arduino controlled *WS2812B* LEDs
+__Desk Lighting:__ A GTK3 Python GUI to serially communicate with Arduino controlled *WS2812B* LEDs [Github](https://github.com/Sadeeed/DeskLighting)
 
 ### Hardware
 
