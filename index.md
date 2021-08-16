@@ -8,8 +8,8 @@ A Computer Engineering student with a passion for IOT / Embedded development and
 
 <div id="webaddress">
 <a href="mailto:sadeeedw@gmail.com">sadeeedw@gmail.com</a>
-| <a href="https://sadeeed.github.io/">Website</a>
-| <a href="https://github.com/Sadeeed">Github</a>
+| <a href="https://sadeeed.github.io/">sadeeed.github.io</a>
+| <a href="https://github.com/Sadeeed">github.com/Sadeeed</a>
 | <a href="tel:+923134724853"> +923134724853 </a>
 </div>
 
@@ -82,12 +82,12 @@ __Desk Lighting:__ A GTK3 Python GUI to serially communicate with Arduino contro
 
 __Soup10:__ A 4x3 Programable Mechanical Macro Pad designed using Eagle running QMK firmware [Github](https://github.com/Sadeeed/soup10)
 
-__WordClock:__ A Word Clock based on the STM32F401CCU6 / Black Pill board [Github](https://github.com/Sadeeed/WordClock)
+__WordClock:__ A Word Clock based on the STM32F401CCU6 / Black Pill board [[Github]](https://github.com/Sadeeed/WordClock)
 
 ## Work
 
 `December 2020 - Now`
-Freelance Python Developer
+Freelance Developer (Python & C)
 
 `June 2021 - Now`
 Chairperson - IET Comsats Lahore Students Chapter
