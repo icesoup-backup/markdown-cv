@@ -54,6 +54,9 @@ __Linux__
 __Microcontrollers (Arduino / STM32)__
 
 `Beginner`
+__Git__
+
+`Beginner`
 __Eagle / KiCAD__
 
 `Beginner`
@@ -66,21 +69,21 @@ __AutoCAD__
 
 ### Software
 
-__Magic:__ A Minecraft mod written in Java [Github](https://github.com/Sadeeed/Magic)
+__Magic:__ A Minecraft mod written in Java [[Github]](https://github.com/Sadeeed/Magic)
 
-__Datapacks:__ Miscellaneous datapacks made for Minecraft [Github](https://github.com/Sadeeed/datapacks)
+__Datapacks:__ Miscellaneous datapacks made for Minecraft [[Github]](https://github.com/Sadeeed/datapacks)
 
-__Discord Bot:__ A generic modular discord bot made in Python [Github](https://github.com/Sadeeed/discordbot)
+__Discord Bot:__ A generic modular discord bot made in Python [[Github]](https://github.com/Sadeeed/discordbot)
 
-__Fast Share Bot:__ A discord bot to share your server across multiple servers [Github](https://github.com/icesoup-backup/FastShareBot)
+__Fast Share Bot:__ A discord bot to share your server across multiple servers [[Github]](https://github.com/icesoup-backup/FastShareBot)
 
-__Bot Dashboard:__ A Bot Dashboard written in flask made to work in unison with Fast Share Bot [Github](https://github.com/icesoup-backup/BotDashboard)
+__Bot Dashboard:__ A Bot Dashboard written in flask made to work in unison with Fast Share Bot [[Github]](https://github.com/icesoup-backup/BotDashboard)
 
-__Desk Lighting:__ A GTK3 Python GUI to serially communicate with Arduino controlled *WS2812B* LEDs [Github](https://github.com/Sadeeed/DeskLighting)
+__Desk Lighting:__ A GTK3 Python GUI to serially communicate with Arduino controlled *WS2812B* LEDs [[Github]](https://github.com/Sadeeed/DeskLighting)
 
 ### Hardware
 
-__Soup10:__ A 4x3 Programable Mechanical Macro Pad designed using Eagle running QMK firmware [Github](https://github.com/Sadeeed/soup10)
+__Soup10:__ A 4x3 Programable Mechanical Macro Pad designed using Eagle running QMK firmware [[Github]](https://github.com/Sadeeed/soup10)
 
 __WordClock:__ A Word Clock based on the STM32F401CCU6 / Black Pill board [[Github]](https://github.com/Sadeeed/WordClock)
 
@@ -95,7 +98,7 @@ Chairperson - IET Comsats Lahore Students Chapter
 ## Certifications
 
 `EC-Council | September 2018`
-__Certified Secure Computer User__ [Certificate](https://drive.google.com/file/d/1d2xFAblORzXhUmt_FGJGSkR0-NrdeaJO/view?usp=sharing)
+__Certified Secure Computer User__ [[Certificate]](https://drive.google.com/file/d/1d2xFAblORzXhUmt_FGJGSkR0-NrdeaJO/view?usp=sharing)
 
 <!-- ### Footer
 
