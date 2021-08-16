@@ -20,12 +20,12 @@ To become part of an organization where I get to explore and improve my existing
 ## Education
 
 `2018 - 2022`
-__Comsats Univeristy Islamabad, Lahore Campus__
+__Comsats University Islamabad, Lahore__
 
 Bachelors of Science in Computer Engineering [In Progress]
 
 `2016 - 2018`
-__Aspire College, Lahore__
+__Aspire Group of Colleges, Lahore__
 
 Intermediate in Computer Science
 
