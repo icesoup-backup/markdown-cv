@@ -4,7 +4,7 @@ title: Sadeed's CV
 ---
 # Muhammad Sadeed Waseem
 
-A Computer Engineering student with a passion for IOT / Embedded development and automation. I am a fast learner and am always eager to learn new skills. 
+A Computer Engineering student with a passion for IOT , Embedded development & automation. I am a fast learner and am always eager to learn new skills.
 
 <div id="webaddress">
 <a href="mailto:sadeeedw@gmail.com">sadeeedw@gmail.com</a>
