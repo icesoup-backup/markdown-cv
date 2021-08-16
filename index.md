@@ -3,40 +3,39 @@ layout: cv
 title: Sadeed's CV
 ---
 # Muhammad Sadeed Waseem
+
 A Computer Engineering student with a passion for IOT / Embedded development and automation. I am a fast learner and am always eager to learn new skills. 
 
 <div id="webaddress">
-<a href="sadeeedw@gmail.com">sadeeedw@gmail.com</a>
+<a href="mailto:sadeeedw@gmail.com">sadeeedw@gmail.com</a>
 | <a href="https://sadeeed.github.io/">Website</a>
 | <a href="https://github.com/Sadeeed">Github</a>
-| <a href="+923134724853"> +923134724853 </a>
+| <a href="tel:+923134724853"> +923134724853 </a>
 </div>
-
 
 ## Objective
 
-To become part of an organization where I get to use and improve my existing skills while learining new ones.
+To become part of an organization where I get to explore and improve my existing skills while learning new ones.
 
 ## Education
-
-`2007 - 2016`
-__Crescent Model Higher Secondary School, Lahore__
-
-Matric [821/1100]
-
-`2016 - 2018`
-__Aspire College, Lahore__
-
-Intermediate in Computer Science [722/1100]
 
 `2018 - 2022`
 __Comsats Univeristy Islamabad, Lahore Campus__
 
-BS Computer Engineering [In Progress]
+Bachelors of Science in Computer Engineering [In Progress]
 
+`2016 - 2018`
+__Aspire College, Lahore__
 
+Intermediate in Computer Science
+
+`2007 - 2016`
+__Crescent Model Higher Secondary School, Lahore__
+
+Matriculation
 
 ## Skills
+
 Experienced in the following scopes
 
 `Intermediate`
@@ -63,8 +62,6 @@ __Blender__
 `Beginner`
 __AutoCAD__
 
-
-
 ## Projects
 
 ### Software
@@ -87,7 +84,6 @@ __Soup10:__ A 4x3 Programable Mechanical Macro Pad designed using Eagle running 
 
 __WordClock:__ A Word Clock based on the STM32F401CCU6 / Black Pill board [Github](https://github.com/Sadeeed/WordClock)
 
-
 ## Work
 
 `December 2020 - Now`
@@ -96,15 +92,10 @@ Freelance Python Developer
 `June 2021 - Now`
 Chairperson - IET Comsats Lahore Students Chapter
 
-
-
 ## Certifications
 
-`EC-Coucil | September 2018 `
+`EC-Council | September 2018`
 __Certified Secure Computer User__ [Certificate](https://drive.google.com/file/d/1d2xFAblORzXhUmt_FGJGSkR0-NrdeaJO/view?usp=sharing)
-
-
-
 
 <!-- ### Footer
 
